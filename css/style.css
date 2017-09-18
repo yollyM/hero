@@ -1,0 +1,58 @@
+<link href="http://www.1001fonts.com/scriptina-font.html" rel="stylesheet" type="text/css">
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css"/>
+.container-fluid{
+  width:60%;
+}
+h1{
+  font-family:Scriptina;
+  font-size:7em;
+}
+.font-style , .quote{
+  font-style:italic;
+  font-family:Georgia;
+  
+}
+p {
+  font-famliy:lobster,monospace;
+  word-spacing:2px;
+}
+.body{
+  background-color:#f8b7bd;
+}
+h1 {
+  text-align: center;
+  text-size: 10em;
+}
+h2 {
+  text-align: center;
+  text-size: 2em;
+}
+h3 {
+  text-align: center;
+  text-color: grey;
+  text-size: 2em;
+}
+.img1{ border-radius:20em;
+ margin-left:auto;
+  margin-right:auto;
+  display:block;
+}
+.img2{ border-radius:40em;
+  margin-left:auto;
+  margin-right:auto;
+  display:block;
+  
+}
+.quote{
+  text-align: center;
+  font-size: 2.5em;
+  margin-top: 1.5em;
+}
+.p1{
+  text-align:center;
+}
+.p3{
+  text-align:center;
+}
